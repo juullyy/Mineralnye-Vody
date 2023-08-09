@@ -1,0 +1,99 @@
+body{
+	margin: 0;
+	background-color: #efefef;
+}
+/*header*/
+.topnav a{
+	text-decoration:none;	
+	font-size: 28px;
+	color: white;
+	font-family: 'Raleway', sans-serif;
+	margin-left: 1%;
+    padding-bottom: 1%;
+	transition: 0.5s;
+}
+.topnav a:hover{
+	color: #b0ff82;
+	background-color:#004332;
+	padding: 1%;
+			
+}
+.menu{
+	background-color: #006C51;
+	margin-top: 0%;
+	padding-top: 1%;
+}
+
+.bb{
+
+	font-size: 50px;
+	color: #FFD9B7;
+	margin-left: 1%;
+	padding-bottom: 1%;
+	padding-top: -1%;
+	font-family: 'Raleway', sans-serif, bold;
+}
+
+.fote{
+	text-align: center;
+	color: white;
+	font-family: 'Raleway', sans-serif;
+	font-size: 18px;
+}
+/*1*/
+.h1{
+	font-size: 30px;
+	color: #b0ff82;
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+}
+.h2{
+	font-size: 28px;
+	color: #eee;
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+}
+.dos{
+	background: linear-gradient(#006C51, #4e930f);
+	margin: 3%;
+	padding: 5%;
+	border-radius: 1%;
+}
+.dos2{
+	background: linear-gradient(#4e930f, #006C51);
+	margin: 3%;
+	padding: 5%;
+	border-radius: 1%;
+}
+.foto2{
+	padding-left: 5%;
+	padding-right: 5%;
+	margin: auto;
+    display: block;
+    border-radius: 30%;
+	transition: 0.7s;
+
+}
+.foto2:hover{
+	transform: scale(1.2);
+	border-radius: 25%;
+
+}
+.ccc{
+
+	font-size:18px;
+	color: #eee;
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+	
+}
+
+footer{
+	background-color: #ff8a00;
+	padding: 10%;
+}
+.verh{
+	transform: rotate(90deg);
+	margin-bottom: 2%;
+	margin-top: 2%;
+}
